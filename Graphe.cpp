@@ -1,11 +1,10 @@
 /**
  * \file Graphe.cpp
  * \brief Implémentation d'un graphe orienté.
- * \author EL hadji Djimé Nimaga
+ * \author 
  * \version 0.1
  * \date juin-juillet 2023
  *
- *  Travail pratique numéro 2
  *
  */
 
