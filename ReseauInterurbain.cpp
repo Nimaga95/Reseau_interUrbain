@@ -5,7 +5,6 @@
  * \version 0.1
  * \date juin-juillet 2023
  *
- *  Travail pratique numéro 2
  *
  */
 #include <sstream>
